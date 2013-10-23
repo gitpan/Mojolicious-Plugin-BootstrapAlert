@@ -5,8 +5,10 @@ META.yml
 Makefile.PL
 README
 dist.ini
+eg/auto_inject.psgi
 eg/test.psgi
 lib/Mojolicious/Plugin/BootstrapAlerts.pm
+t/auto_inject.t
 t/notifications.t
 t/notifications_not_dismissable_global.t
 t/notifications_not_dismissable_local.t
